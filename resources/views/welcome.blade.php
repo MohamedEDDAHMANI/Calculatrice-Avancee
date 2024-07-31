@@ -51,7 +51,7 @@
                             <a class="nav-link page-scroll" href="#details">Details</a>
                         </li>
                         <li>
-                            <a class="nav-link page-scroll" href="#pricing">Pricing</a>
+                            <a class="nav-link page-scroll" href="#pricing">Pricing.</a>
                         </li>
                         <li class="dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Drop</a>
